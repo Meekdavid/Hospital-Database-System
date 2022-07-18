@@ -1,2 +1,2 @@
-David effiongeffiong Mboko mboko
+David effiongeffiong Mboko mbok
 # Hospital-Database-System
