@@ -1,6 +1,6 @@
 from flask import Flask, render_template, flash, request, redirect, url_for
 import urllib.request
-import os tes
+import os te
 from werkzeug.utils import secure_filename
 import cv2 as cv
 import math
